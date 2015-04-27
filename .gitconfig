@@ -1,0 +1,7 @@
+[user]
+	name = Tohei Yokogawa
+	email = toheiyokogawa@hotmail.com
+[push]
+	default = simple
+[core]
+	editor = nano
